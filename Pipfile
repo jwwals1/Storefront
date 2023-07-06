@@ -20,6 +20,7 @@ whitenoise = "*"
 gunicorn = "*"
 waitress = "*"
 dj-database-url = "*"
+django-silk = "*"
 
 [dev-packages]
 autopep8 = "*"
