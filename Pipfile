@@ -20,6 +20,7 @@ whitenoise = "*"
 dj-database-url = "*"
 django-silk = "*"
 mysql = "*"
+waitress = "*"
 
 [dev-packages]
 autopep8 = "*"
