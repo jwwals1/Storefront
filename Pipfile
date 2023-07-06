@@ -21,6 +21,7 @@ gunicorn = "*"
 waitress = "*"
 dj-database-url = "*"
 django-silk = "*"
+mysql = "*"
 
 [dev-packages]
 autopep8 = "*"
