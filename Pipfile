@@ -17,7 +17,6 @@ django-cors-headers = "*"
 django-templated-mail = "*"
 redis = "*"
 whitenoise = "*"
-waitress = "*"
 dj-database-url = "*"
 django-silk = "*"
 mysql = "*"
@@ -27,7 +26,6 @@ autopep8 = "*"
 pytest = "*"
 pytest-django = "*"
 pytest-watch = "*"
-
 
 [requires]
 python_version = "3.9"
