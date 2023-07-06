@@ -19,6 +19,7 @@ redis = "*"
 whitenoise = "*"
 gunicorn = "*"
 waitress = "*"
+dj-database-url = "*"
 
 [dev-packages]
 autopep8 = "*"
